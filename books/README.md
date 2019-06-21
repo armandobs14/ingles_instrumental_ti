@@ -1,1 +1,1 @@
-Os pdfs ficam devem ficar nesta pasta
+Os pdfs devem ficar nesta pasta
