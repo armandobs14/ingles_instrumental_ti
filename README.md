@@ -17,7 +17,7 @@ Análise que busca estrair através de livros texto de cursos de TI um dícioná
 - wordcloud
 
 ## Código
-[Jupyter Notebook](Analysis.ipnb)
+[Jupyter Notebook](Analysis.ipynb)
 
 ## TagCloud
 ![](tagCloud.png)
