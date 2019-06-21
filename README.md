@@ -16,6 +16,12 @@ Análise que busca estrair através de livros texto de cursos de TI um dícioná
 - nltk
 - wordcloud
 
+## Código
+[Jupyter Notebook](Analysis.ipnb)
+
+## TagCloud
+![](tagCloud.png)
+
 ## Cotribuidores
 @judsonmb
 @armandobs14
