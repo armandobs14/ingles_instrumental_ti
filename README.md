@@ -15,3 +15,7 @@ Análise que busca estrair através de livros texto de cursos de TI um dícioná
 - PyPDF2
 - nltk
 - wordcloud
+
+## Cotribuidores
+@judsonmb
+@armandobs14
